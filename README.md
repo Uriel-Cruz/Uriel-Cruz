@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- Actualmente estoy estudiando la carrea de Ciencias de la Computación
+- Me gusta mucho jugar videojuegos y ver futbol
+- 😄 La tecnología me llama mucho la atención, asi como el desarrollo Web
+- Me gustaría aprender cosas nuevas día con día
+
 <!--
 **Uriel-Cruz/Uriel-Cruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
